@@ -1,0 +1,9 @@
+index:
+    path:     /
+    defaults: { _controller: AppBundle:Base:index }
+paginate:
+    path:     /paginate
+    defaults: { _controller: AppBundle:Base:paginate }
+json:
+    path:     /json
+    defaults: { _controller: AppBundle:Base:json}

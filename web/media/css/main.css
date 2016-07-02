@@ -1,0 +1,55 @@
+body {
+    background:#ffffdd;
+    color:#B0413E;
+}
+table {
+    overflow: auto;
+}
+td {
+    vertical-align: top;
+}
+form input, form label {
+    width:100%;
+}
+form {
+    width:200px;
+    margin:10px;
+}
+.menu {
+    padding:10px 10px 10px 0;
+}
+.menu a {
+    padding:5px;
+    font-weight:bold;
+    text-decoration:none;
+    font-size:18px;
+    color:#C82829;
+}
+.menu a:hover {
+    text-decoration: underline;
+}
+.mainblock {
+    display: flex;
+    margin:0 auto;
+}
+.mainblock .lefts {
+    flex:2;
+}
+.mainblock .rights {
+    flex:1;
+}
+.forma {
+    width:200px;
+}
+.forma input, .forma select {
+    display: block;
+    width:100%;
+}
+#table {
+    margin: 0 auto;
+    width:100%;
+}
+#table td {
+    border:solid 1px #aaaaaa;
+    padding:12px;
+}

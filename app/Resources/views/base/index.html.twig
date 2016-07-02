@@ -1,0 +1,21 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <div id="wrapper">
+    </div>
+{% endblock %}
+{% block scripts %}
+    <script async="" src="/media/js/analytics.js"></script>
+    <script src="/media/js/react.js"></script>
+    <script src="/media/js/react-dom.js"></script>
+    <script src="/media/js/JSXTransformer.js"></script>
+
+    <!-- Griddle doesn't need jQuery at all -- just for the freezeframe library-->
+    <script src="/media/js/jquery.js"></script>
+    <script type="text/javascript" src="/media/js/freezeframe.js"></script>
+
+    <script src="/media/js/Griddle.js"></script>
+    <script src="/media/js/metaData.js"></script>
+    <script src="/media/js/utils.js"></script>
+    <script type="text/jsx" src="/media/js/my.js"></script>
+{% endblock %}

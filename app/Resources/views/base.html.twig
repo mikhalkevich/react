@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <title>{% block title %}Music Library{% endblock %}</title>
+    <link href="/media/css/main.css" type="text/css" rel="stylesheet"/>
+    <link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}"/>
+</head>
+<body>
+<div class="menu">
+    <a href="/">Бесконечная полоса прокрутки</a>
+    <a href="/paginate">Постраничная навигация</a>
+</div>
+<div class="container">
+    {% block body %}{% endblock %}
+</div>
+{% block scripts %}{% endblock %}
+</body>
+</html>

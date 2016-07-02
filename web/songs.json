@@ -1,0 +1,142 @@
+[
+    {
+        "id": 0, 
+        "author": "mikhalkevich",
+        "name": "Gusi lebedi",
+        "genre": "rock",
+		"year": "2001"
+    }, 
+    {
+        "id": 1, 
+        "author": "motorola-xoom", 
+        "name": "img/phones/motorola-xoom.0.jpg",  
+        "genre": "blues",
+		"year": "2000"
+    }, 
+    {
+        "id": 2,  
+        "author": "motorola-atrix-4g", 
+        "name": "img/phones/motorola-atrix-4g.0.jpg", 
+        "genre": "folk",
+		"year": "2001"
+    }, 
+    {
+        "id": 3, 
+        "author": "dell-streak-7", 
+        "name": "img/phones/dell-streak-7.0.jpg", 
+        "genre": "folk",
+		"year": "2001"
+    }, 
+    {
+        "id": 4,   
+        "author": "samsung-gem", 
+        "name": "img/phones/samsung-gem.0.jpg",  
+        "genre": "jazz",
+		"year": "2000"
+    }, 
+    {
+        "id": 5,  
+        "author": "dell-venue", 
+        "name": "img/phones/dell-venue.0.jpg", 
+        "genre": "jazz",
+		"year": "2000"
+    }, 
+    {
+        "id": 6,  
+        "author": "nexus-s", 
+        "name": "img/phones/nexus-s.0.jpg", 
+        "genre": "classic",
+		"year": "2000"
+    }, 
+    {
+        "id": 7,   
+        "author": "lg-axis", 
+        "name": "img/phones/lg-axis.0.jpg", 
+        "genre": "rock",
+		"year": "2000"
+    }, 
+    {
+        "id": 8,   
+		"author": "Ledd Zeppelin",
+        "name": "img/phones/samsung-galaxy-tab.0.jpg", 
+        "genre": "blues",
+		"year": "2000"
+    }, 
+    {
+        "id": 9,   
+        "author": "samsung-showcase-a-galaxy-s-phone", 
+        "name": "img/phones/samsung-showcase-a-galaxy-s-phone.0.jpg",  
+        "genre": "jazz",
+		"year": "2010"
+    }, 
+    {
+        "id": 10,   
+        "author": "droauthor-2-global-by-motorola", 
+        "name": "img/phones/droauthor-2-global-by-motorola.0.jpg",  
+        "genre": "folk",
+		"year": "2012"
+    }, 
+    {
+        "id": 11,  
+        "author": "droauthor-pro-by-motorola", 
+        "name": "img/phones/droauthor-pro-by-motorola.0.jpg",   
+        "genre": "classic",
+		"year": "1986"
+    }, 
+    {
+        "id": 12,  
+        "author": "motorola-bravo-with-motoblur", 
+        "name": "img/phones/motorola-bravo-with-motoblur.0.jpg",  
+        "genre": "miditation",
+		"year": "1982"
+    }, 
+    {
+        "id": 13,  
+        "author": "motorola-defy-with-motoblur", 
+        "name": "img/phones/motorola-defy-with-motoblur.0.jpg",  
+        "genre": "ambient",
+		"year": "1966"
+    }, 
+    {
+        "id": 14,  
+        "author": "t-mobile-mytouch-4g", 
+        "name": "img/phones/t-mobile-mytouch-4g.0.jpg", 
+        "genre": "chillout",
+		"year": "1999"
+    }, 
+    {
+        "id": 15,  
+        "author": "samsung-mesmerize-a-galaxy-s-phone", 
+        "name": "img/phones/samsung-mesmerize-a-galaxy-s-phone.0.jpg",   
+        "genre": "rock",
+		"year": "2001"
+    }, 
+    {
+        "id": 16,  
+        "author": "sanyo-zio", 
+        "name": "img/phones/sanyo-zio.0.jpg",   
+        "genre": "classic",
+		"year": "2010"
+    }, 
+    {
+        "id": 17, 
+        "author": "samsung-transform", 
+        "name": "img/phones/samsung-transform.0.jpg",  
+        "genre": "jazz",
+		"year": "2015"
+    }, 
+    {
+        "id": 18, 
+        "author": "t-mobile-g2", 
+        "name": "img/phones/t-mobile-g2.0.jpg",  
+        "genre": "jazz",
+		"year": "2000"
+    }, 
+    {
+        "id": 19, 
+        "author": "motorola-charm-with-motoblur", 
+        "name": "img/phones/motorola-charm-with-motoblur.0.jpg", 
+        "genre": "folk",
+		"year": "2010"
+    }
+]
