@@ -1,0 +1,24 @@
+AppBundle\Entity\Blog\Music:
+    type: entity
+    table: null
+    repositoryClass: AppBundle\Repository\Blog\MusicRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        name:
+            type: string
+            length: 255
+        author:
+            type: string
+            length: 255
+        genre:
+            type: string
+            length: 255
+        year:
+            type: string
+            length: 255
+    lifecycleCallbacks: {  }

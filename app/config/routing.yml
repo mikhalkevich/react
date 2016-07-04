@@ -7,3 +7,6 @@ paginate:
 json:
     path:     /json
     defaults: { _controller: AppBundle:Base:json}
+add:
+    path:     /add/{name}/{author}/{genre}/{year}
+    defaults: { _controller: AppBundle:Base:add}
